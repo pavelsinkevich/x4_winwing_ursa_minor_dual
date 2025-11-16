@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="ERRQu3jH79aonFe2jf54">
-    <mxGraphModel dx="570" dy="336" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="701" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,6 +192,48 @@
         </mxCell>
         <mxCell id="ulUBA6dGxyqt4dJD2BIS-67" value="Z" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="37" y="455" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-68" value="Quick Save" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="539" y="372" width="40" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-69" value="Primary fire" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="446" y="372" width="74" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-70" value="Next primary weapon group" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="425" y="226" width="68" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-71" value="Launch counter mes." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="485" y="263.5" width="61" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-72" value="Zoom Camera +" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="656" y="975" width="100" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-73" value="Zoom Camera -" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1073.5" width="100" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-74" value="Select menu item" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="715" y="128" width="63" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ulUBA6dGxyqt4dJD2BIS-29" target="ulUBA6dGxyqt4dJD2BIS-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="338" as="sourcePoint" />
+            <mxPoint x="832" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-76" value="Up" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="787" y="176" width="21" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-77" value="Down" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="750" y="275" width="34" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-78" value="Left" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="718" y="202" width="24" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-79" value="Right" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="790" y="260" width="34" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ulUBA6dGxyqt4dJD2BIS-80" value="Container magnet" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="133" y="17.5" width="54" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
