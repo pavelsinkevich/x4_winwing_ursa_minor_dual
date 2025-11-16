@@ -10,13 +10,15 @@ I am using URSA MINOR Space Joystick L and URSA MINOR Fighter Joystick R. "Space
 
 ### X4: Foundations
 
-Place the input map file in your `Egosoft/X4/{random_number}` folder.  Rename the file to `inputmap_#.xml` where the number is a number 1-5.  For best results use a number that is currently not being used by other input maps.
+Place the input map file in your `Documents\Egosoft\X4\<user-id>\` folder.  Rename the file to `inputmap_#.xml` where the number is a number 1-5.  For best results use a number that is currently not being used by other input maps.
 
-The input map should work both right and left handed as long as you keep the same stick configuration numbers as I do.
+The input map covers both right and left sticks.
 
-Your flight stick (in my case, Fighter Joystick R) should be set as controller 1.
+The game recognizes both controllers as FIGHTER FLIGHT STICK. It doesn't matter. As stated before, "Space" and "Fighter" controllers have exactly the same button layout.
 
-Your throttle stick (in my case, Space Joystick L) should be set as controller 2.
+Your flight stick (in my case, right hand) should be set as controller 1.
+
+Your throttle stick (in my case, left hand) should be set as controller 2.
 
 In the X4 Controls menu use the Load Profile option to load the new configuration.
 
