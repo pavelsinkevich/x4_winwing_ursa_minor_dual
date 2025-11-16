@@ -16,9 +16,9 @@ The input map covers both right and left sticks.
 
 The game recognizes both controllers as FIGHTER FLIGHT STICK. It doesn't matter. As stated before, "Space" and "Fighter" controllers have exactly the same button layout.
 
-Your flight stick (in my case, right hand) should be set as controller 1.
+Flight stick (in my case, right hand) should be set as controller 1.
 
-Your throttle stick (in my case, left hand) should be set as controller 2.
+Throttle stick (in my case, left hand) should be set as controller 2.
 
 In the X4 Controls menu use the Load Profile option to load the new configuration.
 
