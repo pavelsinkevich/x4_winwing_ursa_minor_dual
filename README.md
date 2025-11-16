@@ -1,4 +1,4 @@
-# X4: Foundations WINWING Ursa Minor Dual controller Configuration
+# X4: Foundations WinWing Ursa Minor dual controller configuration
 
 ## Introduction
 
