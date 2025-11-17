@@ -205,8 +205,11 @@
         <mxCell id="wMbA8wXidsu3dCJR1e2f-8" value="Missions" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" parent="1" vertex="1">
           <mxGeometry x="545" y="848" width="38" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="GHKXyyQlHP7OxqatOLqN-1" value="Get up from chair" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+        <mxCell id="GHKXyyQlHP7OxqatOLqN-1" value="Get up from chair" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" parent="1" vertex="1">
           <mxGeometry x="605" y="871" width="64" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="iTps9TPwgA9modUu7DVb-1" value="Close menu" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=10;glass=0;shadow=0;imageAspect=1;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="15" y="242" width="62" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
